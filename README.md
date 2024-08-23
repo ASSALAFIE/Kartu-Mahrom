@@ -1,2 +1,17 @@
-# Kartu-Mahrom
-web
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="Google Sheet.css">
+</head>
+<body>
+	<div class="container">
+		<form method="post" action="" name="contact-form">
+			<h4>FORM DATA MAHROM SANTRI</h4>
+			<input type="text" name="nis-santri" placeholder="NIS SANTRI"></textarea>
+			<input type="submit" value="Submit" id="submit">
+		</form>
+	</div>
+
+	<script src="Google Sheet.js"></script>
+</body>
+</html>
