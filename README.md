@@ -9,7 +9,6 @@
 			<input type="submit" value="Submit" id="submit">
 		</form>
 	</div>
-
 	<script src="Google Sheet.js"></script>
 </body>
 </html>
